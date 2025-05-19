@@ -1,32 +1,9 @@
 루틴 조건,예측 행복 점수
-Social Interaction Score <= 0.82 + Diet Type_Vegetarian > 0.50 + Sleep Hours <= 0.58 + Social Interaction Score <= 0.05 + Screen Time per Day (Hours) <= 0.51,0.959
-Social Interaction Score > 0.82 + Screen Time per Day (Hours) > 0.24 + Screen Time per Day (Hours) <= 0.31 + Sleep Hours > 1.92,0.933
-Social Interaction Score > 0.82 + Screen Time per Day (Hours) <= 0.24 + Sleep Hours > -1.15 + Screen Time per Day (Hours) > 0.14 + Diet Type_Keto > 0.50,0.802
-Social Interaction Score <= 0.82 + Diet Type_Vegetarian > 0.50 + Sleep Hours <= 0.58 + Social Interaction Score <= 0.05 + Screen Time per Day (Hours) > 0.51,0.75
-Social Interaction Score <= 0.82 + Diet Type_Vegetarian <= 0.50 + Sleep Hours <= -1.55 + Screen Time per Day (Hours) <= 0.28 + Screen Time per Day (Hours) > 0.19,0.731
-Social Interaction Score <= 0.82 + Diet Type_Vegetarian > 0.50 + Sleep Hours > 0.58 + Screen Time per Day (Hours) <= 0.54 + Sleep Hours > 0.72,0.708
-Social Interaction Score > 0.82 + Screen Time per Day (Hours) <= 0.24 + Sleep Hours <= -1.15 + Sleep Hours <= -1.68 + Exercise Level > 1.50,0.689
-Social Interaction Score <= 0.82 + Diet Type_Vegetarian > 0.50 + Sleep Hours > 0.58 + Screen Time per Day (Hours) > 0.54 + Sleep Hours <= 1.12,0.682
-Social Interaction Score > 0.82 + Screen Time per Day (Hours) > 0.24 + Screen Time per Day (Hours) > 0.31 + Screen Time per Day (Hours) <= 0.97 + Screen Time per Day (Hours) > 0.94,0.637
-Social Interaction Score <= 0.82 + Diet Type_Vegetarian > 0.50 + Sleep Hours <= 0.58 + Social Interaction Score > 0.05 + Screen Time per Day (Hours) > 0.88,0.625
-Social Interaction Score > 0.82 + Screen Time per Day (Hours) <= 0.24 + Sleep Hours > -1.15 + Screen Time per Day (Hours) <= 0.14 + Social Interaction Score > 0.95,0.624
-Social Interaction Score <= 0.82 + Diet Type_Vegetarian <= 0.50 + Sleep Hours > -1.55 + Social Interaction Score <= 0.03 + Screen Time per Day (Hours) <= 0.16,0.589
-Social Interaction Score > 0.82 + Screen Time per Day (Hours) <= 0.24 + Sleep Hours > -1.15 + Screen Time per Day (Hours) > 0.14 + Diet Type_Keto <= 0.50,0.562
-Social Interaction Score <= 0.82 + Diet Type_Vegetarian <= 0.50 + Sleep Hours > -1.55 + Social Interaction Score > 0.03 + Sleep Hours <= 1.98,0.509
-Social Interaction Score <= 0.82 + Diet Type_Vegetarian > 0.50 + Sleep Hours > 0.58 + Screen Time per Day (Hours) > 0.54 + Sleep Hours > 1.12,0.503
-Social Interaction Score <= 0.82 + Diet Type_Vegetarian > 0.50 + Sleep Hours <= 0.58 + Social Interaction Score > 0.05 + Screen Time per Day (Hours) <= 0.88,0.497
-Social Interaction Score <= 0.82 + Diet Type_Vegetarian <= 0.50 + Sleep Hours <= -1.55 + Screen Time per Day (Hours) <= 0.28 + Screen Time per Day (Hours) <= 0.19,0.456
-Social Interaction Score > 0.82 + Screen Time per Day (Hours) <= 0.24 + Sleep Hours <= -1.15 + Sleep Hours <= -1.68 + Exercise Level <= 1.50,0.444
-Social Interaction Score > 0.82 + Screen Time per Day (Hours) > 0.24 + Screen Time per Day (Hours) > 0.31 + Screen Time per Day (Hours) <= 0.97 + Screen Time per Day (Hours) <= 0.94,0.44
-Social Interaction Score > 0.82 + Screen Time per Day (Hours) > 0.24 + Screen Time per Day (Hours) <= 0.31 + Sleep Hours <= 1.92 + Exercise Level <= 1.50,0.439
-Social Interaction Score > 0.82 + Screen Time per Day (Hours) <= 0.24 + Sleep Hours > -1.15 + Screen Time per Day (Hours) <= 0.14 + Social Interaction Score <= 0.95,0.432
-Social Interaction Score <= 0.82 + Diet Type_Vegetarian > 0.50 + Sleep Hours > 0.58 + Screen Time per Day (Hours) <= 0.54 + Sleep Hours <= 0.72,0.425
-Social Interaction Score <= 0.82 + Diet Type_Vegetarian <= 0.50 + Sleep Hours > -1.55 + Social Interaction Score > 0.03 + Sleep Hours > 1.98,0.386
-Social Interaction Score <= 0.82 + Diet Type_Vegetarian <= 0.50 + Sleep Hours <= -1.55 + Screen Time per Day (Hours) > 0.28 + Social Interaction Score <= 0.68,0.382
-Social Interaction Score <= 0.82 + Diet Type_Vegetarian <= 0.50 + Sleep Hours > -1.55 + Social Interaction Score <= 0.03 + Screen Time per Day (Hours) > 0.16,0.333
-Social Interaction Score > 0.82 + Screen Time per Day (Hours) > 0.24 + Screen Time per Day (Hours) > 0.31 + Screen Time per Day (Hours) > 0.97 + Exercise Level > 2.00,0.298
-Social Interaction Score <= 0.82 + Diet Type_Vegetarian <= 0.50 + Sleep Hours <= -1.55 + Screen Time per Day (Hours) > 0.28 + Social Interaction Score > 0.68,0.237
-Social Interaction Score > 0.82 + Screen Time per Day (Hours) > 0.24 + Screen Time per Day (Hours) <= 0.31 + Sleep Hours <= 1.92 + Exercise Level > 1.50,0.222
-Social Interaction Score > 0.82 + Screen Time per Day (Hours) <= 0.24 + Sleep Hours <= -1.15 + Sleep Hours > -1.68 + Social Interaction Score <= 0.92,0.133
-Social Interaction Score > 0.82 + Screen Time per Day (Hours) > 0.24 + Screen Time per Day (Hours) > 0.31 + Screen Time per Day (Hours) > 0.97 + Exercise Level <= 2.00,0.121
-Social Interaction Score > 0.82 + Screen Time per Day (Hours) <= 0.24 + Sleep Hours <= -1.15 + Sleep Hours > -1.68 + Social Interaction Score > 0.92,0.011
+Social Interaction Score <= 0.82 + Diet Type_Vegetarian > 0.50 + Sleep Hours > 0.58,0.63
+Social Interaction Score > 0.82 + Screen Time per Day (Hours) <= 0.24 + Sleep Hours > -1.15,0.545
+Social Interaction Score <= 0.82 + Diet Type_Vegetarian > 0.50 + Sleep Hours <= 0.58,0.525
+Social Interaction Score <= 0.82 + Diet Type_Vegetarian <= 0.50 + Sleep Hours > -1.55,0.501
+Social Interaction Score > 0.82 + Screen Time per Day (Hours) > 0.24 + Screen Time per Day (Hours) > 0.31,0.439
+Social Interaction Score <= 0.82 + Diet Type_Vegetarian <= 0.50 + Sleep Hours <= -1.55,0.407
+Social Interaction Score > 0.82 + Screen Time per Day (Hours) > 0.24 + Screen Time per Day (Hours) <= 0.31,0.281
+Social Interaction Score > 0.82 + Screen Time per Day (Hours) <= 0.24 + Sleep Hours <= -1.15,0.237
