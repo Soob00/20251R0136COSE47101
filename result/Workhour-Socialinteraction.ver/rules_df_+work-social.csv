@@ -1,0 +1,9 @@
+루틴 조건,예측 행복 점수
+Diet Type_Vegetarian > 0.50 + Sleep Hours > 0.72 + Exercise Level > 2.50,0.702
+Diet Type_Vegetarian > 0.50 + Sleep Hours > 0.72 + Exercise Level <= 2.50,0.547
+Diet Type_Vegetarian <= 0.50 + Work Hours per Week <= 0.12 + Sleep Hours > -1.58,0.521
+Diet Type_Vegetarian > 0.50 + Sleep Hours <= 0.72 + Screen Time per Day (Hours) > 0.16,0.518
+Diet Type_Vegetarian <= 0.50 + Work Hours per Week > 0.12 + Work Hours per Week > 0.14,0.476
+Diet Type_Vegetarian > 0.50 + Sleep Hours <= 0.72 + Screen Time per Day (Hours) <= 0.16,0.434
+Diet Type_Vegetarian <= 0.50 + Work Hours per Week > 0.12 + Work Hours per Week <= 0.14,0.38
+Diet Type_Vegetarian <= 0.50 + Work Hours per Week <= 0.12 + Sleep Hours <= -1.58,0.309

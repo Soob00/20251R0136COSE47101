@@ -1,0 +1,27 @@
+분기 조건,예측값
+Diet Type_Vegetarian > 0.50 ∧ Sleep Hours <= 0.72 ∧ Social Interaction Score > 0.79 ∧ Screen Time per Day (Hours) > 0.99,0.978
+Diet Type_Vegetarian <= 0.50 ∧ Social Interaction Score > 0.84 ∧ Sleep Hours > 2.35,0.95
+Diet Type_Vegetarian > 0.50 ∧ Sleep Hours > 0.72 ∧ Exercise Level > 2.50 ∧ Sleep Hours <= 2.08 ∧ Screen Time per Day (Hours) > 0.91,0.867
+Diet Type_Vegetarian > 0.50 ∧ Sleep Hours > 0.72 ∧ Exercise Level > 2.50 ∧ Sleep Hours <= 2.08 ∧ Screen Time per Day (Hours) <= 0.91,0.711
+Diet Type_Vegetarian > 0.50 ∧ Sleep Hours > 0.72 ∧ Exercise Level <= 2.50 ∧ Screen Time per Day (Hours) <= 0.27,0.667
+Diet Type_Vegetarian > 0.50 ∧ Sleep Hours <= 0.72 ∧ Social Interaction Score <= 0.79 ∧ Screen Time per Day (Hours) <= 0.16 ∧ Screen Time per Day (Hours) <= 0.03,0.602
+Diet Type_Vegetarian > 0.50 ∧ Sleep Hours > 0.72 ∧ Exercise Level <= 2.50 ∧ Screen Time per Day (Hours) > 0.27 ∧ Social Interaction Score <= 0.48,0.57
+Diet Type_Vegetarian > 0.50 ∧ Sleep Hours <= 0.72 ∧ Social Interaction Score <= 0.79 ∧ Screen Time per Day (Hours) > 0.16 ∧ Social Interaction Score > 0.18,0.557
+Diet Type_Vegetarian <= 0.50 ∧ Social Interaction Score <= 0.84 ∧ Sleep Hours <= 1.32 ∧ Screen Time per Day (Hours) > 0.94 ∧ Social Interaction Score <= 0.79,0.55
+Diet Type_Vegetarian <= 0.50 ∧ Social Interaction Score > 0.84 ∧ Sleep Hours <= 2.35 ∧ Screen Time per Day (Hours) <= 0.21 ∧ Social Interaction Score > 0.87,0.532
+Diet Type_Vegetarian > 0.50 ∧ Sleep Hours <= 0.72 ∧ Social Interaction Score > 0.79 ∧ Screen Time per Day (Hours) <= 0.99 ∧ Sleep Hours > 0.05,0.508
+Diet Type_Vegetarian <= 0.50 ∧ Social Interaction Score <= 0.84 ∧ Sleep Hours > 1.32 ∧ Social Interaction Score <= 0.56 ∧ Exercise Level > 1.50,0.508
+Diet Type_Vegetarian <= 0.50 ∧ Social Interaction Score <= 0.84 ∧ Sleep Hours <= 1.32 ∧ Screen Time per Day (Hours) <= 0.94 ∧ Social Interaction Score > 0.03,0.489
+Diet Type_Vegetarian > 0.50 ∧ Sleep Hours <= 0.72 ∧ Social Interaction Score <= 0.79 ∧ Screen Time per Day (Hours) > 0.16 ∧ Social Interaction Score <= 0.18,0.486
+Diet Type_Vegetarian > 0.50 ∧ Sleep Hours > 0.72 ∧ Exercise Level <= 2.50 ∧ Screen Time per Day (Hours) > 0.27 ∧ Social Interaction Score > 0.48,0.418
+Diet Type_Vegetarian <= 0.50 ∧ Social Interaction Score > 0.84 ∧ Sleep Hours <= 2.35 ∧ Screen Time per Day (Hours) > 0.21 ∧ Sleep Hours <= 1.72,0.418
+Diet Type_Vegetarian <= 0.50 ∧ Social Interaction Score <= 0.84 ∧ Sleep Hours > 1.32 ∧ Social Interaction Score <= 0.56 ∧ Exercise Level <= 1.50,0.417
+Diet Type_Vegetarian <= 0.50 ∧ Social Interaction Score <= 0.84 ∧ Sleep Hours <= 1.32 ∧ Screen Time per Day (Hours) <= 0.94 ∧ Social Interaction Score <= 0.03,0.417
+Diet Type_Vegetarian > 0.50 ∧ Sleep Hours > 0.72 ∧ Exercise Level > 2.50 ∧ Sleep Hours > 2.08,0.404
+Diet Type_Vegetarian > 0.50 ∧ Sleep Hours <= 0.72 ∧ Social Interaction Score <= 0.79 ∧ Screen Time per Day (Hours) <= 0.16 ∧ Screen Time per Day (Hours) > 0.03,0.402
+Diet Type_Vegetarian > 0.50 ∧ Sleep Hours <= 0.72 ∧ Social Interaction Score > 0.79 ∧ Screen Time per Day (Hours) <= 0.99 ∧ Sleep Hours <= 0.05,0.399
+Diet Type_Vegetarian <= 0.50 ∧ Social Interaction Score <= 0.84 ∧ Sleep Hours > 1.32 ∧ Social Interaction Score > 0.56 ∧ Screen Time per Day (Hours) > 0.04,0.381
+Diet Type_Vegetarian <= 0.50 ∧ Social Interaction Score > 0.84 ∧ Sleep Hours <= 2.35 ∧ Screen Time per Day (Hours) <= 0.21 ∧ Social Interaction Score <= 0.87,0.294
+Diet Type_Vegetarian <= 0.50 ∧ Social Interaction Score <= 0.84 ∧ Sleep Hours <= 1.32 ∧ Screen Time per Day (Hours) > 0.94 ∧ Social Interaction Score > 0.79,0.252
+Diet Type_Vegetarian <= 0.50 ∧ Social Interaction Score > 0.84 ∧ Sleep Hours <= 2.35 ∧ Screen Time per Day (Hours) > 0.21 ∧ Sleep Hours > 1.72,0.222
+Diet Type_Vegetarian <= 0.50 ∧ Social Interaction Score <= 0.84 ∧ Sleep Hours > 1.32 ∧ Social Interaction Score > 0.56 ∧ Screen Time per Day (Hours) <= 0.04,0.011

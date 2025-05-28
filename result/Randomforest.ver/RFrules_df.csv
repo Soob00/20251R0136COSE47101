@@ -1,0 +1,9 @@
+루틴 조건,예측 행복 점수
+Social Interaction Score <= 0.82 + Diet Type_Vegetarian > 0.50 + Sleep Hours > 0.58,0.63
+Social Interaction Score > 0.82 + Screen Time per Day (Hours) <= 0.24 + Sleep Hours > -1.15,0.545
+Social Interaction Score <= 0.82 + Diet Type_Vegetarian > 0.50 + Sleep Hours <= 0.58,0.525
+Social Interaction Score <= 0.82 + Diet Type_Vegetarian <= 0.50 + Sleep Hours > -1.55,0.501
+Social Interaction Score > 0.82 + Screen Time per Day (Hours) > 0.24 + Screen Time per Day (Hours) > 0.31,0.439
+Social Interaction Score <= 0.82 + Diet Type_Vegetarian <= 0.50 + Sleep Hours <= -1.55,0.407
+Social Interaction Score > 0.82 + Screen Time per Day (Hours) > 0.24 + Screen Time per Day (Hours) <= 0.31,0.281
+Social Interaction Score > 0.82 + Screen Time per Day (Hours) <= 0.24 + Sleep Hours <= -1.15,0.237

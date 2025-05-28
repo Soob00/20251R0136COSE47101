@@ -1,0 +1,9 @@
+루틴 조건,예측 행복 점수
+Diet Type_Vegetarian > 0.50 + Sleep Hours > 0.72 + Exercise Level > 2.50,0.702
+Diet Type_Vegetarian > 0.50 + Sleep Hours > 0.72 + Exercise Level <= 2.50,0.547
+Diet Type_Vegetarian > 0.50 + Sleep Hours <= 0.72 + Social Interaction Score <= 0.79,0.524
+Diet Type_Vegetarian <= 0.50 + Social Interaction Score <= 0.84 + Sleep Hours <= 1.32,0.491
+Diet Type_Vegetarian <= 0.50 + Social Interaction Score > 0.84 + Work Hours per Week <= 0.47,0.484
+Diet Type_Vegetarian <= 0.50 + Social Interaction Score <= 0.84 + Sleep Hours > 1.32,0.446
+Diet Type_Vegetarian > 0.50 + Sleep Hours <= 0.72 + Social Interaction Score > 0.79,0.44
+Diet Type_Vegetarian <= 0.50 + Social Interaction Score > 0.84 + Work Hours per Week > 0.47,0.392
