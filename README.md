@@ -1,16 +1,18 @@
 # 25-1 Data Science
 
 ## main branch 구조
-# dataset1
+### dataset1
 : 처음 분석한 데이터셋(부록 첨부)
 - data : 데이터셋 파일 포함
 - notebooks : 분석 코드들
 - results :분석 결과
-# dataset2
+### dataset2
 : 본론의 데이터셋 
-- data : (용량 문제로 데이터셋을 업로드하지 못했습니다.)
-- notebooks : datset2 분석 코드들,
+- data : (용량 문제로 데이터셋 확인 가능한 링크로 연결했습니다)
+- notebooks : datset2 분석 코드들
 - visualization에 datset2 시각화 코드
+### viz
+- 이전 데이터셋들 시각화 코드입니다.
 
 로 정리해두었습니다.
 
